@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samuel Joshua
-- 👀 I’m interested in Backend/Fullstack Developer and interested to learn new technologies.
+- 👀 I’m interested in Software Developer post and interested to learn new technologies.
 - I have 4 months of working experience in python and FastAPI framework as an intern in a company.
 - 🌱 I have completed MCA in 2021. 
 - 📫 How to reach me ...email- samueljoshua388@gmail.com
